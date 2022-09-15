@@ -1,0 +1,7 @@
+To record some ai issue
+1. libcudart.so.11.0: cannot open shared object file
+2. libnvinfer.so.7: cannot open shared object file
+3. libnvinfer_plugin.so.7: cannot open shared object file
+4. libcublas.so.11: cannot open shared object file
+5. libcublasLt.so.11: cannot open shared object file
+6. libcufft.so.10: cannot open shared object file
